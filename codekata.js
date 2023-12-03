@@ -1,0 +1,16 @@
+db.codekata.insertMany([
+    { totalProblems: 100, name: "Bharath", ProblemSolved: 90 },
+    { totalProblems: 100, name: "david", ProblemSolved: 83 },
+    { totalProblems: 100, name: "dinesh", ProblemSolved: 62 },
+    { totalProblems: 100, name: "vakeesan", ProblemSolved: 85 },
+    { totalProblems: 100, name: "arshat", ProblemSolved: 46 },
+    { totalProblems: 100, name: "Radha Krishnan", ProblemSolved: 80 },
+    { totalProblems: 100, name: "bhuvanesh Kumar", ProblemSolved: 74 },
+    { totalProblems: 100, name: "", ProblemSolved: 90 },
+    { totalProblems: 100, name: "karthi", ProblemSolved: 72 },
+    { totalProblems: 100, name: "", ProblemSolved: 90 },
+    { totalProblems: 100, name: "Saberi Ganesh", ProblemSolved: 50 },
+    { totalProblems: 100, name: "akash", ProblemSolved: 48 },
+    { totalProblems: 100, name: "Parsuvanath", ProblemSolved: 67 },
+    { totalProblems: 100, name: "deepak", ProblemSolved: 71 },
+  ]);
